@@ -1,0 +1,302 @@
+
+.hero-hr {
+  color: #0b54dc;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.center {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+  width: 1320px;
+height: 600px;
+flex-shrink: 0;
+
+border-radius: 16px;
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+}
+.go-to {
+  width: 632px;
+  color: #0b54dc;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+
+}
+.celebration {
+
+width: 802.9px;
+height: 500px;
+flex-shrink: 0;
+border-image: 0vb;
+
+fill: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
+
+.nav-title{
+  width: 1600px;
+  height: 7335px;
+}
+.initial-scale{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.lang{
+  color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+
+.DEALS{
+  color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+  
+
+.main{
+  width: 642px;
+  color: #d70999;
+  text-align: center;
+  
+font-family: Merriweather;
+font-size: 64px;
+font-style: normal;
+font-weight: 900;
+line-height: 88px; /* 137.5% */
+letter-spacing: 7.04px;
+
+
+
+}
+.party{
+  width: 697px;
+  color: #d70999;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+text-align: center;
+
+}
+.ipsum{
+ background-color: #d70999;;
+ 
+}
+.hye{
+  text-align: center;
+ color: white;
+}
+.lang{
+  width: 1320px;
+height: 300px;
+flex-shrink: 0;
+border: #a79191;
+
+
+
+
+}
+.sed{
+  color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-transform: uppercase;
+  background-color: #F00;
+}
+.br{
+  color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.park {
+
+
+  display: block;
+  width: 364.844px;
+height: 364.844px;
+flex-shrink: 0;
+border-radius: 364.844px;
+background: url(<path-to-image>), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+}
+.lion{
+  color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.derr{
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  text-align: center;
+}
+
+.to{
+  color: #F00;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}
+.ferr{
+
+  color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-align: center;
+}
+.httt{
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px; /* 160% */
+}
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.idd{
+  color: #F00;
+}
+.roww{
+  display: flex;
+
+}
+.vel{
+  display:flex;
+}
+.link{
+  
+  width: 150px;
+height: 150px;
+flex-shrink: 0;
+  
+}
+.our{
+  
+
+background: rgba(255, 0, 0, 0.05);
+text-align: center;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+}
+.ssd{
+  color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.lop{
+  width: 896px;
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.hire{
+  width: 100px;
+height: 20px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+text-align: center;
+}
+.srre{
+
+  text-align: center;
+  background-color: #F00;
+  color: #fffafa;
+}
+.purus{
+  text-align: right;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.paris{
+  text-align: center;
+}
+.non {
+  display: flex;
+}
+
+.colon {
+  flex: 33.33%;
+  padding: 5px;
+}
+.nisa{
+  text-align: right;
+}
+
